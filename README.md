@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sumitpatel29/Sumitpatel29/blob/main/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sumit Patel</h1>
-<h3 align="center">A passionate software engineer and a freelance full stack Trainer from India. My passion for software development in JAVA FullStack. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center">A passionate software engineer and a freelance full stack Trainer from India.I have my passion for software development in JAVA FullStack. I take great care in the experience, architecture, and code quality of the things I build. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 

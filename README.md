@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **full stack development,me as a beginner.**
 
-- 💬 Ask me about **java,sql,html,css,js**
+- 💬 Ask me about **Java,SQL,HTML,CSS,javaScript,JDBC,Hibernate**
 
 - 📫 How to reach me **sumitpatelofficial1@gmail.com**
 
-- ⚡ Fun fact **i m openminded**
+- ⚡ Fun fact **debugging code can sometimes feel like solving a mystery**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
